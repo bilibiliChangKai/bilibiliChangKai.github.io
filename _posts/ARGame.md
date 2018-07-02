@@ -1,28 +1,24 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      My First Post               # 标题 
-subtitle:   Hello World, Hello Blog #副标题
-date:       2017-02-06              # 时间
-author:     BY  huziang                   # 作者
+title:      ARGame               # 标题 
+subtitle:   HomeWork #副标题
+date:       2018-07-02              # 时间
+author:     huziang                   # 作者
 catalog: true                       # 是否归档
-tags:                               #标签
-
- - 学习
-
 ---
 
-#游戏实训项目介绍
+# 游戏实训项目介绍
 
 > Author : huziang <br>
 >
 > Date : 18-7-2 20:39
 
-##游戏基本信息
+## 游戏基本信息
 
 - 游戏名称：圣邪的意志
 - 游戏简介：游戏中，玩家将扮演一位军师，辅佐公主进行战斗，通过对沙盘的运营使己方军队的战斗力达到最大值，从而击败敌人。游戏分为两个阶段：先通过消消乐获得可操控的士兵，再操纵消消乐阶段获得的士兵和敌人进行战斗。
 
-##游戏实际展示
+## 游戏实际展示
 
 - 开始界面：
 
